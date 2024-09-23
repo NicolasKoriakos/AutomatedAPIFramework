@@ -1,17 +1,17 @@
-# Core 10 QA Engineer Challenge - Nicolas Koriakos
+# QA Automation Engineer - Nicolas Koriakos
 
-Hello! 👋 Welcome to my Core 10 QA Engineer Challenge repository. This space showcases my skills and approach to quality assurance as part of the assessment provided by Core 10.
+Hello! 👋 Welcome to my QA Automation Engineer skill display repository. This space showcases my skills and approach to quality assurance.
 
 ## About Me:
 
-I am Nicolas Koriakos, a passionate Quality Assurance Engineer excited about ensuring the highest standards of software quality. This repository serves as a portfolio of my work on the challenges presented by Core 10.
+I am Nicolas Koriakos, a passionate Quality Assurance Engineer excited about ensuring the highest standards of software quality. This repository serves as a portfolio of my work.
 
 
 ## Set up
 
 Before we begin, there are a couple of steps we should take to ensure everything is ready for action:
 
-1 - You should have docker installed (this is to run the API provided by Core 10).
+1 - You should have docker installed (this is to run an API).
 
 2 - Now that we have docker we should get the repo from the API we are testing.<br><br>
 here you go: https://github.com/alexmgriffiths/compose-weather  now that you have it you just need to do a git clone on it :D
